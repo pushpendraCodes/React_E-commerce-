@@ -1,5 +1,5 @@
 # Welcome to Apna React Ecommerce Webstie 
-
+  [project2](https://github.com/pushpendraCodes/React_E-commerce-/assets/110560647/d454d813-1a58-41d5-88e9-8b225ea8626a)
 
 ## Follow the 3 Steps and your good to go. 
 
@@ -7,7 +7,9 @@
 
 2: simply run the command 
    ### `npm install` 
-   First to install all the packages
+   First to install all the packages!
+ 
+
    
 3: run the project using 
    ### `npm start`
