@@ -1,5 +1,5 @@
 # Welcome to Apna React Ecommerce Webstie 
-  [project2](https://github.com/pushpendraCodes/React_E-commerce-/assets/110560647/d454d813-1a58-41d5-88e9-8b225ea8626a)
+  [e-commerce](https://github.com/pushpendraCodes/React_E-commerce-/assets/110560647/d454d813-1a58-41d5-88e9-8b225ea8626a)
 
 ## Follow the 3 Steps and your good to go. 
 
